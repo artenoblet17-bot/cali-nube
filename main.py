@@ -3,25 +3,9 @@ import threading
 from flask import Flask
 from telegram.ext import ApplicationBuilder, MessageHandler, filters
 from openai import OpenAI
-import httpx
 
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 OPENROUTER_KEY = os.getenv("OPENROUTER_API_KEY")
-
-# --- DIAGNOSTICO AUTOMATICO DEL TOKEN ---
-print("--- DIAGNOSTICO ---")
-if not TELEGRAM_TOKEN:
-    print("ERROR: TELEGRAM_TOKEN esta VACIO en Render Environment")
-else:
-    print(f"TOKEN cargado, longitud: {len(TELEGRAM_TOKEN)}")
-    print(f"Primeros 10: {TELEGRAM_TOKEN[:10]}...")
-    try:
-        r = httpx.get(f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/getMe", timeout=10)
-        print(f"Respuesta de Telegram: {r.text}")
-    except Exception as e:
-        print(f"Error probando token: {e}")
-print(f"OPENROUTER_KEY cargada: {'SI' if OPENROUTER_KEY else 'NO'}")
-print("--- FIN DIAGNOSTICO ---")
 
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
@@ -38,13 +22,13 @@ async def responde(update, context):
     texto = update.message.text
     try:
         resp = client.chat.completions.create(
-            model="meta-llama/llama-3.1-8b-instruct:free",
+            model="google/gemma-2-9b-it:free",
             messages=[{"role": "user", "content": texto}]
         )
         await update.message.reply_text(resp.choices[0].message.content)
     except Exception as e:
         print(f"Error OpenRouter: {e}")
-        await update.message.reply_text(f"Error IA: {e}")
+        await update.message.reply_text("Estoy saturado 10 segundos capi, vuelve a probar")
 
 def run_flask():
     port = int(os.environ.get("PORT", 10000))
@@ -56,3 +40,4 @@ if __name__ == "__main__":
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, responde))
     print("Bot iniciado...")
     app.run_polling(drop_pending_updates=True)
+    
