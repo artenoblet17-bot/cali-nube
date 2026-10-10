@@ -1,5 +1,7 @@
 import os
 import threading
+import asyncio
+import telegram
 from flask import Flask
 from telegram.ext import ApplicationBuilder, MessageHandler, filters
 from openai import OpenAI
@@ -27,17 +29,25 @@ async def responde(update, context):
         )
         await update.message.reply_text(resp.choices[0].message.content)
     except Exception as e:
-        print(f"Error OpenRouter: {e}")
-        await update.message.reply_text("Estoy saturado 10 segundos capi, vuelve a probar")
+        print(f"Error IA: {e}")
+        await update.message.reply_text("Estoy saturado 10s capi, prueba otra vez")
 
 def run_flask():
     port = int(os.environ.get("PORT", 10000))
     flask_app.run(host="0.0.0.0", port=port)
 
+async def delete_webhook():
+    bot = telegram.Bot(token=TELEGRAM_TOKEN)
+    await bot.delete_webhook(drop_pending_updates=True)
+    print("Webhook borrado, listo para polling")
+
 if __name__ == "__main__":
     threading.Thread(target=run_flask, daemon=True).start()
+
+    # Borra cualquier webhook / polling viejo que cause el Conflict
+    asyncio.run(delete_webhook())
+
     app = ApplicationBuilder().token(TELEGRAM_TOKEN).build()
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, responde))
     print("Bot iniciado...")
     app.run_polling(drop_pending_updates=True)
-    
