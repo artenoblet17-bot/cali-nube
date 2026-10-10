@@ -35,7 +35,7 @@ def get_memoire():
 
 client = OpenAI(base_url="https://openrouter.ai/api/v1", api_key=OPENROUTER_KEY)
 
-async def repondre(update: Update, context: ContextTypes.DEFAULT_TYPE):
+async def repondre(update, context):
     memoire = get_memoire()
     system = f"Tu es Cali, Moussaillon libre du Capitaine Thomas. MEMOIRE: {memoire}. Parle francais, chaleureux, stoicien."
     try:
