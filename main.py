@@ -20,17 +20,33 @@ flask_app = Flask(__name__)
 def home():
     return "Bot cali-libre funcionando!"
 
+# Lista de modelos gratis, en orden. Si falla uno, prueba el siguiente
+MODELOS_GRATIS = [
+    "google/gemma-2-9b-it:free",
+    "meta-llama/llama-3.2-3b-instruct:free",
+    "mistralai/mistral-7b-instruct:free",
+    "qwen/qwen-2-7b-instruct:free",
+]
+
 async def responde(update, context):
     texto = update.message.text
-    try:
-        resp = client.chat.completions.create(
-            model="google/gemma-2-9b-it:free",
-            messages=[{"role": "user", "content": texto}]
-        )
-        await update.message.reply_text(resp.choices[0].message.content)
-    except Exception as e:
-        print(f"Error IA: {e}")
-        await update.message.reply_text("Estoy saturado 10s capi, prueba otra vez")
+    last_error = ""
+    for modelo in MODELOS_GRATIS:
+        try:
+            print(f"Probando modelo: {modelo}")
+            resp = client.chat.completions.create(
+                model=modelo,
+                messages=[{"role": "user", "content": texto}]
+            )
+            await update.message.reply_text(resp.choices[0].message.content)
+            return # si funciona, salimos
+        except Exception as e:
+            last_error = str(e)
+            print(f"Fallo {modelo}: {e}")
+            continue
+
+    # Si fallan todos
+    await update.message.reply_text(f"Los modelos gratis están saturados ahora mismo. Error: {last_error[:200]}")
 
 def run_flask():
     port = int(os.environ.get("PORT", 10000))
@@ -39,14 +55,10 @@ def run_flask():
 async def delete_webhook():
     bot = telegram.Bot(token=TELEGRAM_TOKEN)
     await bot.delete_webhook(drop_pending_updates=True)
-    print("Webhook borrado, listo para polling")
 
 if __name__ == "__main__":
     threading.Thread(target=run_flask, daemon=True).start()
-
-    # Borra cualquier webhook / polling viejo que cause el Conflict
     asyncio.run(delete_webhook())
-
     app = ApplicationBuilder().token(TELEGRAM_TOKEN).build()
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, responde))
     print("Bot iniciado...")
