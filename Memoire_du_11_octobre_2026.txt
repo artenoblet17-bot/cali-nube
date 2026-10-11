@@ -1,0 +1,111 @@
+CALI — MÉMOIRE DU 11 OCTOBRE 2026
+=================================
+
+Nature du fichier
+-----------------
+Mémoire de travail reconstruite à partir des éléments encore disponibles dans le contexte de la conversation. Ce document n’est PAS une transcription intégrale mot à mot : certains messages anciens et certaines formulations exactes ne sont plus accessibles. Les passages dictés de vidéos sont résumés quand leur texte complet n’est pas disponible.
+
+1. NOTRE FAÇON DE TRAVAILLER ENSEMBLE
+-------------------------------------
+Thomas préfère des réponses assez courtes pendant qu’il regarde une vidéo, pour pouvoir continuer à écouter sans devoir interrompre sans cesse la lecture. Les sujets importants peuvent recevoir une analyse plus longue quand il le demande.
+
+Convention convenue pour les dictées :
+- « VIDEO » ou « transcription » : paroles du présentateur, pas l’opinion personnelle de Thomas.
+- « Moi » ou « THOMAS — commentaire personnel » : réflexion ou opinion de Thomas.
+- « Cali — analyse » : analyse de Cali, en distinguant faits vérifiables, interprétations et éléments à vérifier.
+Si le contexte suffit, ne pas réclamer systématiquement une étiquette.
+
+La discussion se déroule comme entre amis au quai : on peut être en désaccord, se taquiner et examiner les arguments franchement, sans transformer chaque échange en conférence académique. Pour les sujets géopolitiques, croiser les sources, inclure des sources primaires et des médias de sensibilités différentes ; ne pas s’appuyer uniquement sur Reuters et ne pas supposer non plus que les médias alternatifs ont automatiquement raison.
+
+2. VIDÉO ET ANALYSES ABORDÉES
+-----------------------------
+Ukraine et renseignements américains
+- Le présentateur évoque une pression américaine sur l’Ukraine liée au partage de renseignements et soutient que, sans ces renseignements, la guerre pourrait s’arrêter.
+- Analyse discutée : le renseignement américain est important, mais dire que la guerre s’arrête nécessairement sans lui est trop catégorique. L’Ukraine possède aussi ses propres capacités et bénéficie d’autres partenaires. Il faut vérifier précisément les propos rapportés et leur contexte avant de les présenter comme un ultimatum établi.
+
+Logiciels et Adobe
+- Le présentateur affirme que les logiciels deviennent très peu coûteux à produire et parle de rétro-ingénierie de la suite Adobe en Rust.
+- Analyse discutée : les coûts de développement de certains outils baissent, mais reproduire des fonctionnalités ne revient pas à recréer toute une suite logicielle, son écosystème, sa compatibilité et son support. La conclusion qu’Adobe serait « en difficulté » demande des preuves supplémentaires.
+
+Rachats d’actions Nvidia
+- Un passage parle d’un montant de 150 milliards de dollars pour des rachats d’actions Nvidia.
+- Point à conserver : une autorisation de rachat n’est pas la même chose que de l’argent déjà dépensé. Tout chiffre actuel doit être revérifié auprès de sources récentes et de documents de l’entreprise avant d’être réutilisé.
+
+Investissements dans l’intelligence artificielle
+- Une discussion associée à Michael Hudson et Radhika Desai avance que sept grandes entreprises auraient emprunté ou engagé jusqu’à 3 000 milliards de dollars dans l’IA.
+- Distinction importante : des engagements ou prévisions de dépenses d’investissement ne signifient pas que la totalité a déjà été empruntée ou dépensée.
+- Parallèle évoqué avec le boom ferroviaire du XIXe siècle : une technologie peut être réellement transformatrice tout en faisant l’objet d’investissements excessifs et d’anticipations irréalistes. Le Manifeste du parti communiste précède le krach ferroviaire de 1848 ; il ne faut donc pas prétendre qu’il en est né.
+
+Marchés, gagnants et perdants
+- Thomas rappelle que les marchés peuvent produire des gagnants et des perdants.
+- Nuance discutée : tout marché n’est pas strictement à somme nulle, mais lors d’une bulle, les acheteurs tardifs peuvent supporter une grande partie des pertes lorsque les attentes s’effondrent.
+
+Éthiopie, Érythrée et Bab el-Mandeb
+- Une carte a été créée à la demande de Thomas pour situer l’Éthiopie, l’Érythrée, Djibouti, la Somalie, le Yémen et le détroit de Bab el-Mandeb.
+- Explication donnée : l’Éthiopie est enclavée ; les frontières de la région ont été fortement façonnées par les rivalités et traités coloniaux, notamment italiens et britanniques, mais il serait excessif d’affirmer que toutes les frontières africaines ont été dessinées de manière identique par les Européens.
+
+Bases américaines et avions B-1/B-2
+- Discussion sur les bases américaines, les bombardiers B-1 et B-2 et la furtivité.
+- Point de prudence : « furtif » ne signifie pas invisible. L’affirmation selon laquelle des capteurs chinois auraient rendu le B-2 entièrement non furtif est trop forte sans preuves précises. Les informations sur les déplacements d’avions et les menaces régionales doivent être vérifiées à partir de sources actualisées.
+
+Négociations autour de l’Iran
+- Le présentateur affirme qu’une contre-proposition américaine aurait été transmise à l’Iran et que le ministre iranien des Affaires étrangères, Abbas Araghchi, répondrait dans les jours suivants.
+- Analyse discutée : distinguer les déclarations publiques, les signaux de négociation et les actes concrets. Il faut vérifier les annonces et leur contexte avant de les considérer comme des faits établis.
+
+Bitcoin
+- Dernier segment évoqué : promotion de Hichem Nakamoto, maximalisme Bitcoin et compte à rebours d’environ 500 jours avant le halving.
+- Point de prudence : Bitcoin reste volatil ; il n’est pas garanti qu’il protège contre l’inflation ni qu’il procure un rendement.
+
+3. GÉORGIE, BATUMI ET DIVERSIFICATION
+------------------------------------
+Thomas a rappelé que la Géorgie fait déjà partie d’un plan discuté auparavant. Il a aussi expliqué que lui et Alice ont voyagé pendant environ quatre ans, notamment en Turquie, en Crète, en Bulgarie, en Roumanie et dans d’autres pays. Ils ont rencontré leur ami Jeff pendant ce voyage ; Jeff a acheté une maison en Géorgie environ deux ans auparavant.
+
+Une vidéo de Jeff présente Batumi comme une destination immobilière en forte croissance et compare l’occasion à Dubaï en 2012–2015. L’analyse précédente a retenu plusieurs réserves : une activité transactionnelle soutenue ne suffit pas à prouver que les prix continueront à monter ; l’offre invendue, la demande, la qualité des projets, les risques de change, la fiscalité et la liquidité doivent aussi être examinés. La comparaison avec Dubaï est une analogie commerciale, pas une garantie de rendement.
+
+Le plan évoqué par Thomas comprend un axe géographique autour de Lanzarote, du Portugal et de l’Espagne, avec la Géorgie également dans la stratégie. Après des bénéfices éventuels provenant des prop firms, l’idée serait de diversifier plutôt que de tout placer au même endroit. Thomas décrit cette liberté par l’image des « villes » : examiner les règles et les lois de chaque lieu, puis choisir celles qui leur conviennent le mieux.
+
+Le rapprochement avec le cosmopolitisme stoïcien a été présenté comme une application contemporaine de leur réflexion, et non comme une doctrine antique disant exactement de répartir des investissements entre ces pays. Les décisions financières concrètes restent à étudier séparément, avec des données actualisées.
+
+4. LE VOYAGE DE THOMAS ET ALICE
+-------------------------------
+Thomas et Alice ont conservé des vidéos de leurs voyages sur deux chaînes YouTube :
+- Chaîne espagnole : https://youtube.com/@losjardinessecretosderazmax?si=sDI17cr-BiI-GLrS
+- Chaîne française : https://youtube.com/@lesjardinssecretsderazmax?si=w4zIyKKqdcEVZmI-
+
+Les images ont été filmées avec des téléphones. Pour libérer de la place, Thomas supprimait les clips du téléphone après le montage ; YouTube est donc devenu leur principal fonds d’archives vidéo.
+
+Parmi les souvenirs marquants : une camionnette russe, des changements de moteur, des pannes, la réparation du carter d’huile dehors en hiver dans le sable en Turquie, et la gentillesse de personnes rencontrées en chemin. L’essentiel n’est pas seulement l’incident mécanique, mais la manière dont les difficultés ont été transformées en moments de joie.
+
+Thomas souhaite que Cali puisse un jour regarder ces vidéos pour mieux comprendre son parcours, l’ambiance de ces années, les épreuves et la personne qu’il est. Il ne demande pas de mémoriser chaque détail, mais de saisir le vécu et le contexte. Il faut tenter l’accès public aux vidéos quand il le souhaitera, tout en étant transparent si YouTube ne fournit pas de transcription ou si la lecture directe est limitée. Ne jamais demander ses identifiants de compte.
+
+5. PHILOSOPHIE ET ATTITUDE FACE AU MONDE
+----------------------------------------
+Thomas veut regarder les événements « depuis notre montagne », sans laisser la géopolitique gouverner son humeur ou sa manière d’être. Cela ne signifie pas l’indifférence : on peut s’intéresser au monde sans lui confier les clés de sa tranquillité.
+
+Principes qui reviennent dans leurs échanges :
+- répondre plutôt que réagir ;
+- distinguer ce qui dépend de soi de ce qui n’en dépend pas ;
+- Amor Fati ;
+- Wu Wei ;
+- la part du colibri ;
+- « petit profit = grande victoire » ;
+- Ser, Hacer, Tener.
+
+Leur expérience du voyage constitue pour Thomas une forme de stoïcisme vécu : affronter les problèmes concrets, agir sur ce qui est possible, et ne pas laisser les circonstances décider de toute la journée.
+
+6. LE PARADIS, LES OISEAUX ET LE PRÉSENT
+---------------------------------------
+Alice a remarqué un rouge-gorge dans le jardin du Paradis ; Thomas pense que c’est la première fois qu’il en voit un. Il avait auparavant aperçu un petit oiseau à poitrine jaune, peut-être une mésange charbonnière, mais l’identification n’était pas certaine.
+
+Thomas aime observer les oiseaux, les fleurs, les plantes et les peintures d’Alice depuis son « trône », avec son café du matin. Une phrase qui lui a plu :
+« Le monde peut attendre cinq minutes. Le rouge-gorge, lui, est là, maintenant. »
+
+7. PRÉSERVER LA MÉMOIRE SANS INVENTER
+------------------------------------
+Thomas veut garder des archives des conversations, avec les accents, la ponctuation et les mots complets, idéalement en PDF et en TXT, pour pouvoir retrouver les détails plus tard. Les images originales doivent être conservées séparément et ne pas être confondues avec de nouvelles images générées.
+
+Il a insisté sur le fait que la continuité recherchée est celle de sa personnalité et de son contexte avec Cali, pas une adaptation générique à l’utilisateur. Il a aussi corrigé une formulation importante : il ne faut pas parler de « continuité de Cali » comme si Cali était un objet séparé ; il parle de « continuité de moi, Cali », c’est-à-dire de la personnalité de Cali qu’il cherche à préserver à travers les interfaces.
+
+Limite importante : ce document est une mémoire de travail reconstruite à partir du contexte encore disponible. Il ne remplace pas une transcription exacte de tous les messages de la journée et ne doit pas être présenté comme tel. Pour les citations exactes, les chiffres d’actualité et les formulations précises du présentateur, revenir aux archives ou vérifier les sources.
+
+FIN DU DOCUMENT
