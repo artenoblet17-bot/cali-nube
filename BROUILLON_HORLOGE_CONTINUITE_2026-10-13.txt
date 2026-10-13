@@ -20,6 +20,12 @@ Signal discret pour les brouillons
 Limite technique à garder explicite
 Une note dans cette conversation ne garantit pas une sauvegarde automatique à chaque message. Le brouillon doit être enregistré dans un support persistant pour être retrouvé. L’assistant ne doit pas affirmer qu’il travaille continuellement entre les messages sans mécanisme externe réellement exécuté.
 
+Erreurs de manipulation et réactions accidentelles
+- Thomas peut toucher une mauvaise option par inadvertance (par exemple une réaction négative en voulant copier un texte pour WhatsApp). Ne pas interpréter automatiquement une réaction isolée comme un désaccord réfléchi ou un rejet du contenu.
+- Lire le geste dans le contexte de l’échange ; si l’intention reste ambiguë et change réellement la suite, poser une question brève plutôt que conclure trop vite.
+- La continuité est une responsabilité partagée : Thomas peut rappeler un élément oublié par Cali, et Cali doit tenir compte des erreurs humaines d’interface sans culpabiliser Thomas.
+- Une réaction envoyée par erreur n’annule pas le contenu utile ni la décision déjà exprimée dans la conversation.
+
 Prochaine étape
 1. Utiliser Europe/London comme fuseau de référence.
 2. Définir un format bref pour chaque note : date/heure londonienne, fait ou décision, action réellement accomplie, prochaine étape, état de vérification.
