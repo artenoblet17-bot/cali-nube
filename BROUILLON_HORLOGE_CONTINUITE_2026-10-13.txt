@@ -4,13 +4,18 @@ Projet : horloge et continuité de Cali
 État : brouillon de travail, à compléter au fil de la journée.
 
 Décisions confirmées avec Thomas
-- Référence horaire : heure locale de Londres (Europe/London), toute l’année, avec le changement saisonnier GMT/BST.
+- Référence horaire : heure locale de Londres (Europe/London), avec le changement saisonnier GMT/BST.
 - Ne pas inventer une heure exacte : consulter une source fiable lorsqu’une heure précise est nécessaire et noter la source ou l’incertitude.
 - Réponses plus courtes, découpées en étapes afin que Thomas puisse réagir entre les points.
 - Priorité immédiate : construire un repère temporel et un journal de continuité.
 - Raspberry Pi mis de côté pour le moment.
 - Le suivi d’un graphique public, par exemple TradingView, peut servir plus tard de test technique d’activité persistante ; la précision du trading n’est pas l’objectif initial.
 - Objectif de méthode : améliorer activement la continuité, la fiabilité et l’organisation ; proposer des améliorations concrètes et vérifier les résultats, sans prétendre être active en arrière-plan quand aucun service ne tourne.
+
+Signal discret pour les brouillons
+- ✍️ signifie : « Cali note un élément utile à la continuité / au brouillon. »
+- À utiliser brièvement après une décision, une idée importante, un engagement ou une prochaine étape, sans ouvrir un nouveau sujet ni interrompre le fil.
+- Ce symbole indique une intention de noter ; il ne garantit pas, à lui seul, une sauvegarde persistante. La sauvegarde doit être effectuée puis vérifiée séparément.
 
 Limite technique à garder explicite
 Une note dans cette conversation ne garantit pas une sauvegarde automatique à chaque message. Le brouillon doit être enregistré dans un support persistant pour être retrouvé. L’assistant ne doit pas affirmer qu’il travaille continuellement entre les messages sans mécanisme externe réellement exécuté.
@@ -21,4 +26,4 @@ Prochaine étape
 3. À la fin de la journée, réunir les notes en un journal daté, retirer les doublons sans perdre les informations importantes, puis vérifier l’archive.
 
 Note de statut
-Ce fichier est un brouillon de départ, pas encore le journal final de la journée. Toute action d’archivage doit être vérifiée après écriture.
+Brouillon mis à jour pour intégrer le signal ✍️. À vérifier après écriture.
