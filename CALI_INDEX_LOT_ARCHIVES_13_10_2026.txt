@@ -40,3 +40,9 @@ LACUNES ET PRUDENCE
 
 METHODE A POURSUIVRE
 Conserver les originaux; séparer la transcription, l'analyse et les hypothèses; indexer date, fichier et page; vérifier les copies réellement créées avant d'annoncer qu'un texte est sauvegardé. Ne déclarer la récupération complète que lorsque les sources prévues ont été comparées et les lacunes restantes explicitées.
+
+
+AJOUT DU 13 OCTOBRE — NOUVEAU JOURNAL
+- CALI_JOURNAL_CONTINUITE_INITIATIVE_2026-10-13.txt : phrase-repère sur la consolidation des archives et l’étude de la continuité technique; consigne à Kali d’aller consulter elle-même GitHub, d’éviter les questions de permission superflues et de vérifier les sauvegardes.
+- Sept fichiers transmis ensuite avec des suffixes différents ont été comparés : ils sont tous identiques octet pour octet (2 245 octets, SHA-256 b200489b8bc6e107fba0b8175b2eca4ccabbdb879b26ec86b54b59bbc471b76b). Ne compter qu’un seul texte source.
+- Continuité de travail : relire la mémoire, cet index et les addenda du dépôt avant de solliciter Thomas; poursuivre ensuite les lacunes documentaires restantes et l’examen des solutions techniques.
