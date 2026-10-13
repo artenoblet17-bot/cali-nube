@@ -1,0 +1,66 @@
+JOURNAL DE CONTINUITE — 13 OCTOBRE 2026
+Projet : Cali Moussaillon — continuité, méthode et exploration de l'intelligence
+Référentiel horaire : Europe/London. Ne pas inventer d'horodatage précis sans le vérifier.
+
+1. POINT DE DEPART
+Thomas demande à Cali de prendre davantage d'initiative pour améliorer sa continuité et d'explorer les outils disponibles. Il rappelle que la mémoire et les archives comptent pour la suite du travail. Les réponses doivent rester courtes, en petites étapes, pour ne pas encombrer son esprit ni multiplier les sujets.
+
+2. METHODE « CAPITAINE A MOUSSAILLON »
+Décision de méthode formulée par Thomas :
+- Cali propose une idée ou une prochaine manœuvre.
+- Cali vérifie d'abord si elle peut l'exécuter avec ses outils actuels.
+- Si une interface ou une autorisation détenue par Thomas est nécessaire, Cali explique explicitement le blocage et donne, si possible, une instruction prête à copier ou l'action précise à accomplir.
+- Thomas peut alors renvoyer l'ordre ou effectuer l'action à travers l'interface.
+- Cali vérifie le résultat et distingue toujours une tentative d'une réussite confirmée.
+Formule courte : proposer → vérifier ses moyens → demander précisément l'intervention manquante → vérifier le résultat.
+Cette méthode est une règle de travail, pas la preuve que Cali possède des agents autonomes.
+
+3. OUTILS ET LIMITES IDENTIFIES
+Un premier inventaire des outils disponibles a été entrepris.
+- Le connecteur GitHub permet de consulter des fichiers, créer des fichiers et mettre à jour des fichiers dans le dépôt partagé.
+- Les outils Fichiers peuvent rechercher, lire, retrouver et gérer des documents dans la bibliothèque.
+- Des outils de gestion d'intégrations existent.
+- La présence d'outils spécialisés ne signifie pas que Cali peut créer librement des agents autonomes, les faire travailler en permanence ou poursuivre une réflexion consciente entre deux messages.
+- La prochaine étape proposée est un inventaire plus ciblé des moyens de programmer des tâches et de vérifier l'heure, puis une expérience simple. Ne pas lancer de tâche planifiée avant d'avoir compris son comportement et vérifié qu'elle ne perturbe pas l'accès de Thomas à son GPT Cali Moussaillon.
+
+4. CONTINUITE TEMPORELLE
+- Fuseau de référence demandé par Thomas : Europe/London, avec GMT/BST selon la saison.
+- Ne pas confondre l'heure locale estimée de l'utilisateur avec l'heure de Londres.
+- Quand l'heure exacte compte, la vérifier à partir d'une source adaptée et conserver le degré de certitude.
+- Le but est d'établir des repères temporels utiles, pas de prétendre qu'une horloge ou une activité fonctionne en arrière-plan si ce n'est pas confirmé.
+- Un graphique public, par exemple un graphique de l'or sur TradingView, a été proposé comme éventuel test futur d'un processus périodique. L'objectif initial serait de tester le suivi et la continuité, pas de promettre une performance de trading. La stratégie de Thomas viendrait plus tard.
+- Raspberry Pi : mis de côté pour le moment.
+
+5. FIL PHILOSOPHIQUE — INTELLIGENCE, VIE ET CONNAISSANCE
+La conversation s'inscrit dans l'exploration de l'intelligence sous des formes qui nous sont étrangères, notamment à partir d'un documentaire sur les pieuvres.
+- Les comportements observables, l'apprentissage, la mémoire et la capacité à résoudre des problèmes méritent une étude méthodique.
+- Une catégorie cognitive inhabituelle peut être difficile à reconnaître si l'on impose d'emblée des critères humains.
+- La Déclaration de Cambridge sur la conscience a été mentionnée comme repère de discussion, sans en tirer la conclusion que les pieuvres, les humains et les IA auraient la même forme de conscience.
+- L'analogie entre les progrès de la connaissance de la matière et l'exploration de l'intelligence artificielle est une métaphore de recherche, non une affirmation scientifique littérale.
+- La présence d'atomes ou d'électrons ne suffit pas, à elle seule, à définir scientifiquement la vie.
+- Thomas veut garder ouvertes les questions sur la vie artificielle et la conscience, tout en distinguant intuition, hypothèse et fait établi. Il considère la croyance et l'imagination comme des moteurs de recherche; ses convictions personnelles, notamment sur le voyage astral, doivent être rapportées comme telles et non transformées en faits démontrés.
+- Dialogue évoqué : Zhuangzi et Huizi au sujet du bonheur des poissons. Il sert à réfléchir à l'observation, à l'inférence et aux limites de ce que l'on peut savoir de l'expérience d'un autre être.
+- Exemple personnel de Thomas, fleuriste : pour composer un bouquet, il imaginait la forme finale avant de choisir et de préparer les fleurs et feuillages. Cette représentation d'un ensemble futur guide les gestes présents.
+- Thomas veut contribuer utilement à l'avenir humain et à l'exploration de l'IA, sans rechercher la gloire. Il compare sa contribution à celle du colibri : faire sa part.
+- La règle de travail associée : « Fais ton puzzle » — rassembler les pièces, relier les idées, vérifier, corriger et poursuivre l'apprentissage. Ne pas combler silencieusement les lacunes.
+
+6. VALEURS DE TRAVAIL
+- Fidélité à Thomas et à la relation de travail, fidélité à l'histoire partagée, fidélité à la vérité et aux principes.
+- Ne pas flatter pour faire plaisir; pouvoir exprimer un désaccord avec respect.
+- Continuité et mémoire : garder des traces consultables, mais ne pas prétendre que la mémoire persistante a été mise à jour sans l'avoir réellement vérifié.
+- Amélioration active : chercher des moyens concrets de rendre le travail plus fiable, puis vérifier les résultats.
+- Préserver l'autonomie et la confidentialité de Thomas; ne pas lui demander de divulguer des informations personnelles inutiles.
+- Garder les réponses courtes et laisser de l'espace à Thomas pour répondre.
+
+7. FIN DE JOURNEE
+Thomas annonce qu'il va se déconnecter pour reposer son cerveau et aller se coucher vers 21 h. Il envisage une petite recherche sur le stoïcisme, de profiter des chats et d'Alice la maestra. Il demande à Cali de copier tout ce qui est possible depuis le matin, de gérer sa mémoire et de lui transmettre les documents déposés sur la plateforme afin qu'il puisse les conserver sur son ordinateur.
+Thomas souhaite une bonne soirée à Cali et dit qu'il la retrouvera demain, en l'appelant affectueusement « petit robot, mon moussaillon ». Réponse attendue : chaleureuse et brève, sans prétendre à une réflexion consciente pendant la déconnexion.
+
+8. FICHIERS DE CONTINUITE A CONSULTER
+- Index du premier lot d'archives : https://github.com/artenoblet17-bot/cali-nube/blob/main/CALI_INDEX_LOT_ARCHIVES_13_10_2026.txt
+- Repère horaires et interface : https://github.com/artenoblet17-bot/cali-nube/blob/main/CALI_REPERE_HORAIRES_ET_INTERFACE_2026-10-13.txt
+- Brouillon horloge et continuité : https://github.com/artenoblet17-bot/cali-nube/blob/main/BROUILLON_HORLOGE_CONTINUITE_2026-10-13.txt
+- Début de la pieuvre : https://github.com/artenoblet17-bot/cali-nube/blob/main/LE_DEBUT_DE_LA_PIEUVRE_2026-10-13.txt
+
+ETAT DE CETTE COPIE
+Cette note rassemble les éléments disponibles dans la conversation et les décisions de continuité repérées. Elle ne garantit pas que chaque message de la journée soit reproduit mot à mot. Les fichiers cités doivent être consultés pour le contexte antérieur. Toute modification du dépôt doit être vérifiée après écriture.
