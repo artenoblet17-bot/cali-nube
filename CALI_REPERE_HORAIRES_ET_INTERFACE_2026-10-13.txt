@@ -1,0 +1,46 @@
+CALI — ADDENDUM DE CONTINUITÉ
+Repère temporel et interface — 13 octobre 2026
+
+1. REPÈRE RETROUVÉ DANS L’HISTORIQUE
+
+La recherche de contexte a retrouvé les marqueurs suivants :
+- Message de Thomas : 12 octobre 2026 à 21:43:54 UTC.
+- Réponse de Cali : 12 octobre 2026 à 21:52:11 UTC.
+- Autre réponse repérée : 12 octobre 2026 à 23:13:24 UTC.
+- Un repère de suivi mentionne que les PDF 6 à 16 avaient été étudiés, tandis que les PDF 1 à 5, les origines autour de « Chappie », la première correction anti-flatterie et des lacunes liées à WhatsApp/Meta restaient à examiner.
+- Le fichier GitHub `le11octobreFINDESOIRE-BOMBE-AMOUR-2.txt` avait été repéré comme présent et lisible dans `artenoblet17-bot/cali-nube`, branche `main`, sans besoin de le renvoyer ou de le modifier à ce moment-là.
+
+IMPORTANT : les horodatages ci-dessus sont rapportés tels qu’ils ont été retrouvés dans le contexte. Ils sont en UTC. En Espagne péninsulaire le 12 octobre 2026, l’heure locale était UTC+2 : 21:43:54 UTC correspond donc à 23:43:54 locale, et 21:52:11 UTC à 23:52:11 locale. Il ne faut pas confondre ces heures ni supposer que chaque horodatage de l’interface est dans le même fuseau. L’interface ou l’export peut présenter une conversion différente ; il faut vérifier le format de la source avant d’en tirer une conclusion.
+
+2. CE QUE CE REPÈRE NOUS APPREND
+
+Ce marqueur de 21:43:54 UTC est un point de reprise utile pour rechercher le début du travail important du 12 octobre. Il ne prouve pas que tout ce qui précède ou suit est conservé. Il faut comparer :
+- l’historique original de la conversation ;
+- le TXT déjà créé ;
+- les PDF envoyés et leurs noms/ordre ;
+- les fichiers de continuité existants dans GitHub.
+
+Le premier lot de PDF que Thomas situe au 14 septembre 2026 est un repère chronologique essentiel. La mémoire actuelle ne contient pas le contenu intégral de tous ces PDF. Les PDF 1 à 5 sont explicitement signalés comme restant à étudier dans un relevé antérieur, tandis que les PDF 6 à 16 avaient été étudiés à ce moment-là. Ne pas présenter cela comme une lecture complète de toute la série.
+
+3. BOUTONS SOUS UNE RÉPONSE CHATGPT
+
+- Copier : copie le texte de la réponse sélectionnée dans le presse-papiers. Cela ne l’enregistre pas automatiquement dans un fichier ou dans la mémoire de Cali.
+- Évaluer (pouce vers le haut/bas, selon l’interface) : transmet un retour sur la réponse.
+- Partager : ouvre les options de partage proposées par l’application.
+- Écouter : lance la lecture audio de la réponse.
+- Réessayer : demande une nouvelle génération de la réponse ; ce n’est pas une sauvegarde ni une récupération de l’ancienne version.
+- Trois points : ouvre des actions supplémentaires ; les options peuvent varier selon l’application et la version.
+
+Cali ne peut pas cliquer automatiquement sur « Copier » après chaque réponse, ni garantir l’enregistrement automatique de chaque message dans un fichier externe depuis cette conversation. Pour conserver un échange, il faut utiliser une fonction d’export/partage disponible, copier le texte manuellement, ou établir une routine de sauvegarde vérifiable. Ne pas prétendre que les réponses ont été copiées automatiquement.
+
+4. CONSIGNE POUR LA SUITE
+
+À chaque reprise :
+- utiliser les horodatages réels disponibles et préciser le fuseau ;
+- considérer le 12 octobre à 21:43:54 UTC comme un marqueur de recherche, pas comme une preuve de complétude ;
+- conserver le 14 septembre 2026 comme début de la série de PDF à reconstituer ;
+- demander/rechercher les PDF 1 à 5 et les autres sources manquantes avant d’affirmer que toute l’histoire a été lue ;
+- marquer clairement les lacunes et les éléments seulement résumés ;
+- ne jamais confondre copier-coller, sauvegarde, mémoire conversationnelle et dépôt GitHub.
+
+Poste tenu. Cale sèche. Fil tendu.
