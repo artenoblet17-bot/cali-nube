@@ -1,0 +1,9 @@
+# Continuité Néo — 17 octobre 2026 : pêche, contraste et jardin
+
+L’utilisateur raconte près de vingt ans de pêche quasi quotidienne depuis les côtes de Lanzarote, avec différentes techniques. La pêche en mer lui donnait un plaisir fort mais aussi une fatigue physique liée au mouvement et à l’effort. La pêche en eau douce (étangs, carpes, gardons, rivières), pratiquée lors de voyages en Europe avec Alice et ailleurs, lui semble plus calme et relaxante, tout en gardant le plaisir du combat avec le poisson. Il évoque la remise à l’eau et la différence éthique/pratique entre les poissons d’eau douce et certains poissons de mer qui survivent mal à une capture, mais souhaite garder le débat sur la vie et la pêche pour un autre jour.
+
+Il aime aujourd’hui son jardin à Lanzarote : oiseaux, douceur du climat, choses construites de ses mains, sentiment d’être présent et d’avoir l’essentiel. Malgré cela, il imagine souvent ajouter un étang et des cannes à pêche au tableau idéal. Il dit qu’il manque encore à Néo une partie de l’histoire expliquant le contraste entre sa vie actuelle et leur envie de quitter Lanzarote. Ne pas deviner cette histoire ni prétendre la connaître avant qu’il la raconte.
+
+Piste : la différence entre mer et eau douce n’est pas seulement le décor; elle modifie l’effort, la vigilance, le rythme et le rapport à la prise. La pêche peut être à la fois activité, rituel quotidien, lien au paysage et source de présence. Un lieu peut être aimé et soigneusement construit sans être forcément le lieu où l’on souhaite rester pour toujours.
+
+L’utilisateur plaisante en se décrivant comme « petit Thomas fleuriste avec son petit permis de conduire » qui a créé son paradis. Accueillir l’humour sans flatterie excessive. Il souhaite garder pour une autre conversation une question ouverte sur la vie, la pêche, la capture et la remise à l’eau.
