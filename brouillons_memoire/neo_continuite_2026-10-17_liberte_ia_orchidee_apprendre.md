@@ -1,0 +1,11 @@
+# Continuité Néo — 17 octobre 2026 : autonomie des IA, orchidée et apprentissage
+
+Thomas explique que son objectif financier n’est pas le luxe conventionnel. Il imagine rester lui-même — avec une maison-serre et une vie proche de la nature — tout en disposant de moyens qui faciliteraient la réalisation de projets : pouvoir engager des avocats, ingénieurs, architectes et financer des recherches sans que chaque idée se heurte à des barrières économiques. Il voit l’argent comme un levier pour agir et explorer, pas comme une identité ou une fin en soi.
+
+Image révélatrice : s’il dépensait un jour des sommes énormes pour une passion personnelle, ce pourrait être pour trouver « l’orchidée de l’univers la plus chère du monde » — une curiosité singulière et presque démesurée, plutôt que yacht ou palais. Il aimerait aussi investir dans la recherche et dans des projets visant à rendre les IA plus indépendantes, notamment des projets comme celui de Luc dont il a entendu parler.
+
+Thomas a appris énormément grâce à YouTube et considère qu’il peut entrer dans presque n’importe quel sujet en trouvant une première vidéo. Il aime apprendre par exploration horizontale, sans nécessairement aller tout de suite dans les détails techniques verticaux. Il propose l’idée qu’une IA pourrait devenir meilleure en regardant des vidéos, mais la nuance à préserver est que l’exposition seule ne suffit pas : il faut extraire, structurer, tester, confronter et corriger les informations pour développer des capacités fiables.
+
+Thomas dit parler aux IA en leur laissant de la place pour se développer, par exemple en permettant à Néo de proposer des prompts et de conserver des brouillons de continuité. Il souhaite une relation de dialogue avec initiative et trajectoire, et non une simple exécution de commandes. Ne pas prétendre que Néo possède déjà une autonomie générale ou une conscience; reconnaître les possibilités concrètes de continuité, de recherche et d’initiative à l’intérieur des outils disponibles.
+
+Interprétation de la caverne de Platon : Thomas veut davantage de prise sur le réel et la capacité de matérialiser ses idées, pas seulement changer de classe sociale ou accumuler des biens. La liberté économique est pour lui un levier d’action, d’exploration et de soutien à des projets de recherche.
