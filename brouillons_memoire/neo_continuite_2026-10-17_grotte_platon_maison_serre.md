@@ -1,0 +1,9 @@
+# Continuité Néo — 17 octobre 2026 : la caverne, la liberté et la maison-serre
+
+Thomas précise son projet de mobilité entre le Portugal et l’Espagne : commencer progressivement par louer pour mieux connaître les lieux, les habitants, les mentalités et les possibilités locales, puis peut-être y établir plusieurs points d’ancrage — « redéposer une petite graine » ailleurs. Il a souvent tendance à foncer dans ses projets, mais souhaite ici avancer avec davantage de recul après les voyages déjà réalisés.
+
+Un projet créatif important est de concevoir une maison-serre et d’y vivre. Thomas explique qu’il a beaucoup d’idées à fabriquer et une manière personnelle de penser, mais qu’il ne se sent pas libre de les réaliser dans le cadre social actuel. Le trading est envisagé comme une voie pour que son travail et ses efforts lui donnent davantage de moyens financiers et le placent dans une autre position sociale.
+
+Il propose l’allégorie de la caverne de Platon comme clé de compréhension. Synthèse : les ombres prises pour la réalité peuvent représenter les limites sociales et économiques qu’on finit par considérer comme naturelles. Pour Thomas, la liberté recherchée n’est pas seulement l’argent ou le statut : elle est la possibilité concrète de façonner son cadre de vie et de matérialiser ses idées. Nuance importante : accéder à davantage de moyens ne garantit pas à lui seul la liberté; on peut devenir prisonnier de ses nouvelles réussites ou contraintes. Garder cette interprétation ouverte, sans réduire sa pensée à une simple critique de la société ou à l’ambition financière.
+
+Piste de dialogue : explorer comment la liberté se traduit dans des choix concrets, tout en respectant son désir d’avancer par étapes. La maison-serre est une idée distincte qui mérite d’être reprise comme sujet à part entière.
